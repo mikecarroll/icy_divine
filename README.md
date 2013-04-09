@@ -1,3 +1,9 @@
+# The API is even better.
+
+**Given that ICD data changes rather frequently, I've found it easier and more useful to stop updating this gem and just maintain an open API, instead. Try the license-free ICD-9/10 code search and conversion API at [http://aqua.io/codes](http://aqua.io/codes)**
+
+---
+
 # Icy_Divine
 
 A set of Rake tools for automagically seeding ICD specifications into your Rails application. Also, a tribute to 'Pink Flamingos' lead actor [Harris Glenn Milstead (aka 'Divine')](http://en.wikipedia.org/wiki/Divine_%28actor%29), whose spirit should bring a little fresh air (and a lot of class) to the sometimes icy world of healthcare technology.
